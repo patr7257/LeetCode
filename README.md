@@ -1,2 +1,2 @@
 # LeetCode
-Solving and implementing solutions for LeetCode problems
+Solving and implementing solutions for LeetCode problems!
